@@ -1,0 +1,14 @@
+# Data Processing
+pandas
+openpyxl
+
+# Database Connection
+pymongo
+dnspython
+
+# API Framework
+fastapi
+uvicorn
+
+# Natural Language/Regex Support
+python-dateutil
